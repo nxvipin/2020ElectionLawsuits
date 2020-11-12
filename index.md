@@ -38,6 +38,7 @@ This page tracks all the 2020 election lawsuits filed by Republican interests. T
 | 11/09/2020 | [Michigan Detroit Election Challenge](https://www.democracydocket.com/cases/michigan-detroit-election-challenge/)                     | *      |
 | 11/04/2020 | [Michigan Election Integrity Oversight Process](https://www.democracydocket.com/cases/michigan-election-integrity-oversight-process/) | Fail   |
 | 11/04/2020 | [Michigan Absentee Ballot Counting Intervention](https://www.democracydocket.com/cases/michigan-absentee-counting-intervention/)      | Fail   |
+
 ---
 
 ### Georgia
@@ -45,6 +46,7 @@ This page tracks all the 2020 election lawsuits filed by Republican interests. T
 | Date       | Republican Aligned Lawsuit                                                                                                                | Status |
 | -          | -                                                                                                                                         | -      |
 | 11/04/2020 | [Georgia Absentee Ballot Counting Chatham County](https://www.democracydocket.com/cases/georgia-absentee-ballot-counting-chatham-county/) | Fail   |
+
 ---
 
 ### Nevada
