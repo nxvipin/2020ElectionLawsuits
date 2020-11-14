@@ -3,30 +3,30 @@
 
 This page tracks all the 2020 election lawsuits filed by Republican interests and the current status. The data is gathered from [Democracy Docket](https://www.democracydocket.com/).
 
-#### ⏱ Last Update Date: `November 13, 2020 - 11:30 PST`
+#### ⏱ Last Update Date: `November 13, 2020 - 21:46 PST`
 
-#### 🗂 Total Lawsuits: 24
-#### 👩‍💻 Active Lawsuits: 11
-#### 👩‍💼 Success: 1⁺/13
+#### 🗂 Total Lawsuits: 30
+#### 👩‍💻 Active Lawsuits: 10
+#### 👩‍💼 Success: 1⁺/19
 
 
 ---
 
 ###  Pennsylvania
 
-| Date       | Republican Aligned Lawsuit                                                                                                                | Status  |
-| -          | -                                                                                                                                         | -       |
-| 11/10/2020 | [Philadelphia County BOE Appeal](https://www.democracydocket.com/cases/philadelphia-county-boe-appeal/)                                   | *       |
-| 11/10/2020 | [Pennsylvania Presidential Elector Challenge](https://www.democracydocket.com/cases/pennsylvania-presidential-elector-challenge/)         | *       |
-| 11/09/2020 | [Pennsylvania Bucks County BOE Appeal](https://www.democracydocket.com/cases/pennsylvania-bucks-county-boe-appeal/)                       | *       |
-| 11/09/2020 | [Pennsylvania Democratic Counties Challenge](https://www.democracydocket.com/cases/pennsylvania-democratic-counties-challenge/)           | *       |
-| 11/05/2020 | [Pennsylvania Northampton County Ballots](https://www.democracydocket.com/cases/pennsylvania-northampton-county-ballots/)                 | Fail    |
-| 11/05/2020 | [Montgomery County Board of Elections Vote Count](https://www.democracydocket.com/cases/montgomery-county-board-of-elections-vote-count/) | *       |
-| 11/05/2020 | [Philadelphia County Board of Elections Vote Counting](https://www.democracydocket.com/cases/philadelphia-county-boe-count/)              | Fail    |
-| 11/04/2020 | [Pennsylvania Trump Missing ID](https://www.democracydocket.com/cases/pennsylvania-trump-missing-id/)                                     | Success |
-| 11/03/2020 | [Pennsylvania Provisional Ballot Challenge](https://www.democracydocket.com/cases/pennsylvania-provisional-ballot-challenge/)             | Fail⁺   |
-| 11/03/2020 | [Pennsylvania Bucks County Pre-Canvass](https://www.democracydocket.com/cases/pennsylvania-bucks-county-pre-canvass/)                     | *       |
-| 11/03/2020 | [Pennsylvania Montgomery County Canvassing](https://www.democracydocket.com/cases/pennsylvania-montgomery-county-canvassing/)             | Fail    |
+| Date       | Republican Aligned Lawsuit                                                                                                                | Status       |
+| -          | -                                                                                                                                         | -            |
+| 11/10/2020 | [Philadelphia County BOE Appeal](https://www.democracydocket.com/cases/philadelphia-county-boe-appeal/) (5 Appeals)                       | Fail (All 5) |
+| 11/10/2020 | [Pennsylvania Presidential Elector Challenge](https://www.democracydocket.com/cases/pennsylvania-presidential-elector-challenge/)         | *            |
+| 11/09/2020 | [Pennsylvania Bucks County BOE Appeal](https://www.democracydocket.com/cases/pennsylvania-bucks-county-boe-appeal/)                       | *            |
+| 11/09/2020 | [Pennsylvania Democratic Counties Challenge](https://www.democracydocket.com/cases/pennsylvania-democratic-counties-challenge/)           | *            |
+| 11/05/2020 | [Pennsylvania Northampton County Ballots](https://www.democracydocket.com/cases/pennsylvania-northampton-county-ballots/)                 | Fail         |
+| 11/05/2020 | [Montgomery County Board of Elections Vote Count](https://www.democracydocket.com/cases/montgomery-county-board-of-elections-vote-count/) | Fail         |
+| 11/05/2020 | [Philadelphia County Board of Elections Vote Counting](https://www.democracydocket.com/cases/philadelphia-county-boe-count/)              | Fail         |
+| 11/04/2020 | [Pennsylvania Trump Missing ID](https://www.democracydocket.com/cases/pennsylvania-trump-missing-id/)                                     | Success      |
+| 11/03/2020 | [Pennsylvania Provisional Ballot Challenge](https://www.democracydocket.com/cases/pennsylvania-provisional-ballot-challenge/)             | Fail⁺        |
+| 11/03/2020 | [Pennsylvania Bucks County Pre-Canvass](https://www.democracydocket.com/cases/pennsylvania-bucks-county-pre-canvass/)                     | *            |
+| 11/03/2020 | [Pennsylvania Montgomery County Canvassing](https://www.democracydocket.com/cases/pennsylvania-montgomery-county-canvassing/)             | Fail         |
 
 ---
 
@@ -46,9 +46,9 @@ This page tracks all the 2020 election lawsuits filed by Republican interests an
 
 | Date       | Republican Aligned Lawsuit                                                                                                                | Status |
 | -          | -                                                                                                                                         | -      |
-| 11/11/2020 | [Georgia Democratic Counties Election Challenge](https://www.democracydocket.com/cases/ga-democratic-counties-election-challenge/)        |   *     |
+| 11/13/2020 | [Georgia Presidential Electors Challenge](https://www.democracydocket.com/cases/georgia-presidential-electors-challenge/)                 | *      |
+| 11/11/2020 | [Georgia Democratic Counties Election Challenge](https://www.democracydocket.com/cases/ga-democratic-counties-election-challenge/)        | *      |
 | 11/04/2020 | [Georgia Absentee Ballot Counting Chatham County](https://www.democracydocket.com/cases/georgia-absentee-ballot-counting-chatham-county/) | Fail   |
-|            |                                                                                                                                           |        |
 
 ---
 
@@ -66,6 +66,7 @@ This page tracks all the 2020 election lawsuits filed by Republican interests an
 
 | Date       | Republican Aligned Lawsuit                                                                                        | Status |
 | -          | -                                                                                                                 | -      |
+| 11/12/2020 | [Arizona Vote Recasting Challenge](https://www.democracydocket.com/cases/arizona-vote-recasting-challenge/)       | *      |
 | 11/12/2020 | [Arizona Election Audit Challenge](https://www.democracydocket.com/cases/arizona-election-audit-challenge/)       | *      |
 | 11/07/2020 | [Arizona Trump Sharpie Lawsuit](https://www.democracydocket.com/cases/arizona-trump-sharpie-lawsuit/)             | *      |
 | 11/04/2020 | [Arizona Public Interest Ballot Cure](https://www.democracydocket.com/cases/arizona-public-interest-ballot-cure/) | Fail   |
