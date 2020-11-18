@@ -3,10 +3,10 @@
 
 This page tracks all the 2020 election lawsuits filed by Republican interests and the current status. The data is gathered from [Democracy Docket](https://www.democracydocket.com/).
 
-#### ⏱ Last Update Date: `November 16, 2020 - 23:50 PST`
+#### ⏱ Last Update Date: `November 18, 2020 - 00:32 PST`
 
-#### 🗂 Total Lawsuits: 33
-#### 👩‍💻 Active Lawsuits: 9
+#### 🗂 Total Lawsuits: 35
+#### 👩‍💻 Active Lawsuits: 11
 #### 👩‍💼 Success: 1⁺/23
 
 
@@ -55,12 +55,14 @@ This page tracks all the 2020 election lawsuits filed by Republican interests an
 
 ### Nevada
 
-| Date       | Republican Aligned Lawsuit                                                                                              | Status |
-| -          | -                                                                                                                       | -      |
-| 11/16/2020 | [Nevada Mail Ballot Machine Challenge](https://www.democracydocket.com/cases/nevada-mail-ballot-machine-challenge/)     | *      |
-| 11/05/2020 | [Clark County Vote Count Halt](https://www.democracydocket.com/cases/clark-county-vote-count-halt/)                     | Fail   |
-| 11/03/2020 | [Nevada Polling Place Extension](https://www.democracydocket.com/cases/nevada-polling-place-extension/)                 | Fail   |
-| 10/22/2020 | [Nevada Ballot Observation Intervention](https://www.democracydocket.com/cases/nevada-ballot-observation-intervention/) | Fail   |
+| Date       | Republican Aligned Lawsuit                                                                                                | Status |
+| -          | -                                                                                                                         | -      |
+| 11/17/2020 | [Nevada Election Law Contest](https://www.democracydocket.com/cases/nevada-election-law-contest/)                         | *      |
+| 11/16/2020 | [Nevada Mail Ballot Machine Challenge II](https://www.democracydocket.com/cases/nevada-mail-ballot-machine-challenge-ii/) | *      |
+| 11/16/2020 | [Nevada Mail Ballot Machine Challenge](https://www.democracydocket.com/cases/nevada-mail-ballot-machine-challenge/)       | *      |
+| 11/05/2020 | [Clark County Vote Count Halt](https://www.democracydocket.com/cases/clark-county-vote-count-halt/)                       | Fail   |
+| 11/03/2020 | [Nevada Polling Place Extension](https://www.democracydocket.com/cases/nevada-polling-place-extension/)                   | Fail   |
+| 10/22/2020 | [Nevada Ballot Observation Intervention](https://www.democracydocket.com/cases/nevada-ballot-observation-intervention/)   | Fail   |
 
 ---
 
