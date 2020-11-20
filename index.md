@@ -3,11 +3,11 @@
 
 This page tracks all the 2020 election lawsuits filed by Republican interests and the current status. The data is gathered from [Democracy Docket](https://www.democracydocket.com/).
 
-#### ⏱ Last Update Date: `November 18, 2020 - 00:32 PST`
+#### ⏱ Last Update Date: `November 19, 2020 - 23:57 PST`
 
-#### 🗂 Total Lawsuits: 35
+#### 🗂 Total Lawsuits: 41
 #### 👩‍💻 Active Lawsuits: 11
-#### 👩‍💼 Success: 1⁺/23
+#### 👩‍💼 Success: 2⁺/28
 
 
 ---
@@ -16,6 +16,9 @@ This page tracks all the 2020 election lawsuits filed by Republican interests an
 
 | Date       | Republican Aligned Lawsuit                                                                                                                | Status       |
 | -          | -                                                                                                                                         | -            |
+| 11/18/2020 | [Westmoreland County BOE Appeal](https://www.democracydocket.com/cases/westmoreland-county-boe-appeal/)                                   | *            |
+| 11/18/2020 | [Allegheny County BOE Appeal](https://www.democracydocket.com/cases/allegheny-county-boe-appeal/)                                         | Success      |
+| 11/16/2020 | [Allegheny County BOE Appeal II](https://www.democracydocket.com/cases/allegheny-county-boe-appeal-ii/)                                   | Fail         |
 | 11/10/2020 | [Philadelphia County BOE Appeal](https://www.democracydocket.com/cases/philadelphia-county-boe-appeal/) (5 Appeals)                       | Fail (All 5) |
 | 11/10/2020 | [Pennsylvania Presidential Elector Challenge](https://www.democracydocket.com/cases/pennsylvania-presidential-elector-challenge/)         | Fail         |
 | 11/09/2020 | [Pennsylvania Bucks County BOE Appeal](https://www.democracydocket.com/cases/pennsylvania-bucks-county-boe-appeal/)                       | *            |
@@ -34,9 +37,9 @@ This page tracks all the 2020 election lawsuits filed by Republican interests an
 
 | Date       | Republican Aligned Lawsuit                                                                                                                | Status        |
 | -          | -                                                                                                                                         | -             |
-| 11/15/2020 | [Michigan Final Certification Challenge](https://www.democracydocket.com/cases/michigan-final-certification-challenge/)                   | *             |
+| 11/15/2020 | [Michigan Final Certification Challenge](https://www.democracydocket.com/cases/michigan-final-certification-challenge/)                   | Fail          |
 | 11/11/2020 | [Michigan Democratic Counties Election Challenge](https://www.democracydocket.com/cases/michigan-democratic-counties-election-challenge/) | Fail          |
-| 11/11/2020 | [Michigan Wayne County Results Challenge](https://www.democracydocket.com/cases/michigan-wayne-county-results-challenge/)                 | *             |
+| 11/11/2020 | [Michigan Wayne County Results Challenge](https://www.democracydocket.com/cases/michigan-wayne-county-results-challenge/)                 | Fail          |
 | 11/09/2020 | [Michigan Detroit Election Challenge](https://www.democracydocket.com/cases/michigan-detroit-election-challenge/) (Appealed)              | Fail (& Fail) |
 | 11/04/2020 | [Michigan Election Integrity Oversight Process](https://www.democracydocket.com/cases/michigan-election-integrity-oversight-process/)     | Fail          |
 | 11/04/2020 | [Michigan Absentee Ballot Counting Intervention](https://www.democracydocket.com/cases/michigan-absentee-counting-intervention/)          | Fail          |
@@ -47,7 +50,7 @@ This page tracks all the 2020 election lawsuits filed by Republican interests an
 
 | Date       | Republican Aligned Lawsuit                                                                                                                | Status |
 | -          | -                                                                                                                                         | -      |
-| 11/13/2020 | [Georgia Presidential Electors Challenge](https://www.democracydocket.com/cases/georgia-presidential-electors-challenge/)                 | *      |
+| 11/13/2020 | [Georgia Presidential Electors Challenge](https://www.democracydocket.com/cases/georgia-presidential-electors-challenge/)                 | Fail   |
 | 11/11/2020 | [Georgia Democratic Counties Election Challenge](https://www.democracydocket.com/cases/ga-democratic-counties-election-challenge/)        | Fail   |
 | 11/04/2020 | [Georgia Absentee Ballot Counting Chatham County](https://www.democracydocket.com/cases/georgia-absentee-ballot-counting-chatham-county/) | Fail   |
 
@@ -55,14 +58,17 @@ This page tracks all the 2020 election lawsuits filed by Republican interests an
 
 ### Nevada
 
-| Date       | Republican Aligned Lawsuit                                                                                                | Status |
-| -          | -                                                                                                                         | -      |
-| 11/17/2020 | [Nevada Election Law Contest](https://www.democracydocket.com/cases/nevada-election-law-contest/)                         | *      |
-| 11/16/2020 | [Nevada Mail Ballot Machine Challenge II](https://www.democracydocket.com/cases/nevada-mail-ballot-machine-challenge-ii/) | *      |
-| 11/16/2020 | [Nevada Mail Ballot Machine Challenge](https://www.democracydocket.com/cases/nevada-mail-ballot-machine-challenge/)       | *      |
-| 11/05/2020 | [Clark County Vote Count Halt](https://www.democracydocket.com/cases/clark-county-vote-count-halt/)                       | Fail   |
-| 11/03/2020 | [Nevada Polling Place Extension](https://www.democracydocket.com/cases/nevada-polling-place-extension/)                   | Fail   |
-| 10/22/2020 | [Nevada Ballot Observation Intervention](https://www.democracydocket.com/cases/nevada-ballot-observation-intervention/)   | Fail   |
+| Date       | Republican Aligned Lawsuit                                                                                                  | Status |
+| -          | -                                                                                                                           | -      |
+| 11/19/2020 | [Nevada Mail Ballot Machine Challenge IV](https://www.democracydocket.com/cases/nevada-mail-ballot-machine-challenge-iv/)   | *      |
+| 11/18/2020 | [Nevada Mail Ballot Machine Challenge III](https://www.democracydocket.com/cases/nevada-mail-ballot-machine-challenge-iii/) | *      |
+| 11/17/2020 | [Nevada Election Law Contest](https://www.democracydocket.com/cases/nevada-election-law-contest/)                           | *      |
+| 11/16/2020 | [Nevada Mail Ballot Machine Challenge II](https://www.democracydocket.com/cases/nevada-mail-ballot-machine-challenge-ii/)   | *      |
+| 11/16/2020 | [Nevada Mail Ballot Machine Challenge II](https://www.democracydocket.com/cases/nevada-mail-ballot-machine-challenge-ii/)   | *      |
+| 11/16/2020 | [Nevada Mail Ballot Machine Challenge](https://www.democracydocket.com/cases/nevada-mail-ballot-machine-challenge/)         | *      |
+| 11/05/2020 | [Clark County Vote Count Halt](https://www.democracydocket.com/cases/clark-county-vote-count-halt/)                         | Fail   |
+| 11/03/2020 | [Nevada Polling Place Extension](https://www.democracydocket.com/cases/nevada-polling-place-extension/)                     | Fail   |
+| 10/22/2020 | [Nevada Ballot Observation Intervention](https://www.democracydocket.com/cases/nevada-ballot-observation-intervention/)     | Fail   |
 
 ---
 
@@ -71,7 +77,7 @@ This page tracks all the 2020 election lawsuits filed by Republican interests an
 | Date       | Republican Aligned Lawsuit                                                                                        | Status |
 | -          | -                                                                                                                 | -      |
 | 11/12/2020 | [Arizona Vote Recasting Challenge](https://www.democracydocket.com/cases/arizona-vote-recasting-challenge/)       | *      |
-| 11/12/2020 | [Arizona Election Audit Challenge](https://www.democracydocket.com/cases/arizona-election-audit-challenge/)       | *      |
+| 11/12/2020 | [Arizona Election Audit Challenge](https://www.democracydocket.com/cases/arizona-election-audit-challenge/)       | Fail   |
 | 11/07/2020 | [Arizona Trump Sharpie Lawsuit](https://www.democracydocket.com/cases/arizona-trump-sharpie-lawsuit/)             | Fail   |
 | 11/04/2020 | [Arizona Public Interest Ballot Cure](https://www.democracydocket.com/cases/arizona-public-interest-ballot-cure/) | Fail   |
 
